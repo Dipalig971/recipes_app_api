@@ -1,16 +1,14 @@
 # product_api
 
-A new Flutter project.
+## Explantion
 
-## Getting Started
+A simple Recipe application built using Flutter and GetX for state management, along with beautiful animations for a smooth user experience. This app demonstrates efficient state handling, user interaction, and reactive UI updates.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- CRUD Operations for Recipes: Create, Read, Update, and Delete recipe entries.
+- Reactive State Management: Utilizes GetX's reactive capabilities for seamless state management.
+- Animations: Smooth and beautiful animations for a better user experience.
+- Recipe Details: View detailed information about each recipe.
+- Favorites: Mark recipes as favorites.
+- Clean Architecture: Separation of concerns between UI, state management, and data models.
