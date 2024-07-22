@@ -12,3 +12,8 @@ A simple Recipe application built using Flutter and GetX for state management, a
 - Recipe Details: View detailed information about each recipe.
 - Favorites: Mark recipes as favorites.
 - Clean Architecture: Separation of concerns between UI, state management, and data models.
+
+ ## Video
+  
+ https://github.com/user-attachments/assets/73d0dbea-42c6-4431-8329-2684b74b141a
+
